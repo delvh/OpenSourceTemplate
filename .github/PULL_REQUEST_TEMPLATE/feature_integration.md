@@ -2,8 +2,8 @@
 name: Feature integration
 title: Added feature
 labels: enhancement
-assignees:
-reviewers:
+assignees: delvh
+reviewers: delvh
 projects:
 milestone:
 ---

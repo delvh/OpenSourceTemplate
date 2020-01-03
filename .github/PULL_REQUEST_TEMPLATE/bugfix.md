@@ -2,8 +2,8 @@
 name: Bug fix
 title: Fixed Bug
 labels: bug
-assignees:
-reviewers:
+assignees: delvh
+reviewers: delvh
 projects:
 milestone:
 ---
